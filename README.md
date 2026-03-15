@@ -36,17 +36,57 @@ PROCEDURE:
 
 CIRCUIT DIAGRAMS
 
-Half wave rectifier with filter:
+Half wave rectifier
+without filter:
 
-Bridge rectifier with filter:
+<img width="1919" height="992" alt="image" src="https://github.com/user-attachments/assets/a081cf9e-d359-4a29-a5d4-815f5b91aa95" />
+
+<img width="1269" height="756" alt="image" src="https://github.com/user-attachments/assets/bf18a3e4-67d0-4946-a709-184dca9ca32e" />
+
+with filter:
+<img width="1919" height="983" alt="image" src="https://github.com/user-attachments/assets/bd8c63ae-3ad5-4ef4-ac19-17b3f275b3b7" />
+
+
+<img width="1260" height="704" alt="image" src="https://github.com/user-attachments/assets/ce144509-521a-4a5b-a558-485c4c24bcc0" />
+
+Bridge rectifier
+without filter:
+
+<img width="1033" height="527" alt="image" src="https://github.com/user-attachments/assets/f358bdc5-57ba-443d-bfd8-1deef33211e2" />
+
+<img width="1233" height="670" alt="image" src="https://github.com/user-attachments/assets/b3d9d986-97fb-4a31-b549-10345d00a760" />
+
+with filter:
+
+<img width="1034" height="525" alt="image" src="https://github.com/user-attachments/assets/f83bf727-8141-4278-b388-bce6e6fe7cee" />
+
+<img width="1240" height="737" alt="image" src="https://github.com/user-attachments/assets/140c0342-044b-4c36-80e5-7c6abf6031ec" />
 
 TABULAR COLUMN
-Rectifier without filter
+
+halfwave Rectifier:
+
+<img width="1635" height="717" alt="image" src="https://github.com/user-attachments/assets/c673e695-82ab-4292-b9d4-c62c9696e7d5" />
+
 TABULAR COLUMN
-Rectifier with filter
+
+bridge Rectifier:
+
+<img width="1570" height="727" alt="image" src="https://github.com/user-attachments/assets/5707705c-5aef-4ea2-833f-ad32e57a596e" />
 
 WAVEFORM:
 
+halfwave Rectifier:
+
+<img width="1244" height="666" alt="image" src="https://github.com/user-attachments/assets/5bf5f161-37d9-4d19-a78f-52bc3d8f6da7" />
+
+<img width="1034" height="560" alt="image" src="https://github.com/user-attachments/assets/357a7dcb-8ecc-4ac4-8152-299cb87c9e42" />
+
+bridge Rectifier:
+
+<img width="1446" height="713" alt="image" src="https://github.com/user-attachments/assets/181970a8-c1c6-47d2-821b-5caa4cc57729" />
+
+<img width="1040" height="602" alt="image" src="https://github.com/user-attachments/assets/4ab8ea57-eb5a-443e-8de0-d9ddd2e551d5" />
 
 RESULT:
 
